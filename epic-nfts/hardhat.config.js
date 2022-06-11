@@ -1,5 +1,7 @@
 require('@nomiclabs/hardhat-waffle');
 require("dotenv").config({ path: ".env" });
+require("@nomiclabs/hardhat-etherscan");
+
 
 module.exports = {
   solidity: '0.8.1',
@@ -9,4 +11,9 @@ module.exports = {
       accounts: [process.env.RINKEBY_PRIVATE_KEY],
     },
   },
+  etherscan: {
+    apiKey: {
+      rinkeby: 'process.env.ETHERSCAN_API_KEY'
+  }
+}
 };
