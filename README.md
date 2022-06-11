@@ -9,10 +9,12 @@ A contract + frontennd built for degens on the rinkeby network. Built with Solid
 # Table of Contents
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
+- [Preview](#preview)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
 # Preview
+<img width="1440" alt="Screen Shot 2022-06-11 at 12 22 02 AM" src="https://user-images.githubusercontent.com/90402466/173172300-6af3365c-f80e-4eab-850d-da066a23e134.png">
 
 > Visit the <a href="https://nft-starter-project.charlesnyabeze.repl.co/">frontend</a> !
 
